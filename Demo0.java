@@ -8,7 +8,8 @@ public class PrintTo5 {
 		// print i and add 1
 		System.out.println(i);
 		i = + 1;
-		} System.out.println("Done");
+		} 
+		System.out.println("Done");
         // Complete the program's code here:
     } 
  }
